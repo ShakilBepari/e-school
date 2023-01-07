@@ -1,0 +1,107 @@
+body{
+    font-family: 'Poppins';
+}
+.container{
+    margin-bottom: 80px;
+}
+.lemon-color{
+    background-color: #F0FFF0;
+    height: 800px;
+}
+.navbar-brand img{
+    width: 200px;
+}
+.suc-bt{
+    margin-left: 30px;
+    font-weight: 600;
+}
+.suc-bt:hover{
+    background-color: aquamarine;
+}
+.unic-sign{
+    background-color: #21B573;
+    width: 100px;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    border: none;
+}
+.top-button{
+    background-color: #21B573;
+    border: none;
+    padding: 10px 30px;
+    border-radius: 20px;
+    color: white;
+    margin-top: 20px;
+}
+.top-button:hover{
+    color:#000000;
+    background-color: aquamarine;
+}
+.card-body{
+    text-align: center;
+}
+.card img{
+    width: 80px;
+    height: 83px;
+    margin: 0 auto;
+    padding-top: px;
+    position: relative;
+    top: 40px;
+}
+.card{
+    height: 280px;
+    border: none;
+    background-color: #F8FFFB;
+    border-radius: 10px;
+   
+}
+.card-body{
+    position: relative;
+    top: 60px; 
+}
+.lats-con img{
+    width: 350px;
+    height: 250px;
+}
+.lats-con{
+    background-color: aqua;
+}
+.last-btn{
+    background-color: #21B573;
+    border: none;
+    padding: 8px 25px;
+    border-radius: 20px;
+    color: white;
+    margin-bottom: 25px;
+}
+.last-btn:hover{
+    color: #000000;
+    background-color: aquamarine;
+}
+.course-text-align{
+    text-align:left;
+    
+}
+.course-card{
+    height: 110%;
+}
+.course-image{
+   width: 28px !important; 
+   height: 28px !important;
+   margin-top: -80px !important;
+}
+.ft-container p {
+    color: lightgray;
+}
+.ft-container h5{
+    color: white;
+    font-weight: 600;
+}
+.ft-container .container{
+    padding: 50px 20px;
+}
+.copyright small{
+    margin-top: 50px;
+    color: lightgray !important;
+}
